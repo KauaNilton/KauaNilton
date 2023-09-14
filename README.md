@@ -21,9 +21,9 @@ Por gostar de resolver enigmas, alguns dos meus hobbys são: jogos de estratégi
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KauaNilton&theme=transparent&bg_color=001&border_color=0000CD&show_icons=true&icon_color=FF0&title_color=2986cc&text_color=FFF&hide_title=true&hide=stars)
 
-## **Repositórios de desafios e estudos da DIO**
+## **Alguns repositórios**
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=KauaNilton&repo=dio-lab-open-source&bg_color=001&border_color=0000CD&show_icons=true&icon_color=EF1&title_color=E01&text_color=FFF)](https://github.com/KauaNilton/dio-trilha-java-basico)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=KauaNilton&repo=dio-trilha-java-basico&bg_color=001&border_color=0000CD&show_icons=true&icon_color=EF1&title_color=E01&text_color=FFF)](https://github.com/KauaNilton/dio-trilha-java-basico)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=KauaNilton&repo=collections-java-api&bg_color=001&border_color=0000CD&show_icons=true&icon_color=EF1&title_color=E01&text_color=FFF)](https://github.com/KauaNilton/collections-java-api)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=KauaNilton&repo=Stream-Api&bg_color=001&border_color=0000CD&show_icons=true&icon_color=EF1&title_color=E01&text_color=FFF)](https://github.com/KauaNilton/Stream-Api)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=KauaNilton&repo=imersao-java-Alura&bg_color=001&border_color=0000CD&show_icons=true&icon_color=EF1&title_color=E01&text_color=FFF)](https://github.com/KauaNilton/imersao-java-Alura)
