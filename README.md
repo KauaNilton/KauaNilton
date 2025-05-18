@@ -1,6 +1,6 @@
 # **Kauã N. Barbosa**
 
-Back-and developer Java, de Simões Filho-BA, cursando o 3° ano do ensino médio técnico, no curso de logística, com intenção de fazer faculdade em análise e desenvolvimento de sistemas.
+Back-and developer Java, de Simões Filho-BA, com intenção de fazer faculdade em ciências da computação.
 A primeira linguagem que eu tive contato foi o python, mas através de um curso com java escolhi seguir com a linguagem.
 Por gostar de resolver enigmas, alguns dos meus hobbys são: jogos de estratégia e cubo magico.
 
